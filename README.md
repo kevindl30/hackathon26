@@ -1,12 +1,17 @@
-We are building a 3-hour hackathon MVP from this starter repo.
-First, inspect the files I provide and explain the app structure.
-Then propose the smallest 4-step plan to make the app demoable.
-Do not write code yet.
+# Hackathon 26 Starter
 
-Implement only step 1.
-Keep the change small.
-Tell me exactly which files to modify and provide the full replacement code for each changed file.
+This repo is intentionally minimal. Your job is to use Codex to inspect it, understand it, modify it, and deploy an MVP.
 
-Prepare this app for Vercel deployment.
-Check package scripts, environment variables, and likely build issues.
-Only fix deployment blockers.
+## Goal
+
+Build a demoable MVP app in 3 hours.
+
+## Tools
+
+- Codex UI
+- GitHub
+- Vercel
+- Any approved editor, if needed
+
+## Start With Codex
+
