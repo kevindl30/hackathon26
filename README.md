@@ -6,3 +6,7 @@ Do not write code yet.
 Implement only step 1.
 Keep the change small.
 Tell me exactly which files to modify and provide the full replacement code for each changed file.
+
+Prepare this app for Vercel deployment.
+Check package scripts, environment variables, and likely build issues.
+Only fix deployment blockers.
