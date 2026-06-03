@@ -15,3 +15,26 @@ Build a demoable MVP app in 3 hours.
 
 ## Start With Codex
 
+Paste this into Codex:
+
+[Prompt 1: Inspect the repo]
+
+## Build With Codex
+
+Paste this after Codex explains the repo:
+
+[Prompt 2: Ask for MVP plan]
+
+## Implement In Small Steps
+
+Use:
+
+[Prompt 3: Implement one step only]
+
+## If GitHub Integration Is Blocked
+
+Ask Codex for full file replacements or patch-style instructions.
+
+## Deploy
+
+Ask Codex to inspect deployment readiness and guide you through Vercel.
